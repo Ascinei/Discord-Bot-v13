@@ -11,4 +11,3 @@ client.events = new Discord.Collection();
 
 client.login(process.env.DISCORD_TOKEN);
 
-// NzE5MDYzNTYxNjE1MzEwOTA5.Xtx-IA.ov5RpSJKVU-5QABbcfd23tXU8Yc
